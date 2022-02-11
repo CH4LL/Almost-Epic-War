@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b63fb01a6169dac4a8e5f9a96efe01a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - castleCrossbowBolt: {fileID: 4337563326871054416, guid: bc7e7d5318872f44aa6023aa76e28b09,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
