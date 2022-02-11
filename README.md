@@ -1,5 +1,6 @@
 # Almost-Epic-War
 Strategy/tower defense, playable version available at https://ch4ll.itch.io/almost-epic-war
+
 I decided to only upload the script files, as the whole project was simply too large to be pushed to GitHub in the usual way.
 If you are looking for the creators of the assets I used you can find their names in the credits.txt file, look for them on https://assetstore.unity.com to find the assets you are interested in.
 
